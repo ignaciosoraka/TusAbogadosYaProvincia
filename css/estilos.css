@@ -1091,6 +1091,7 @@ button:hover {
 
     .logo {
         height: 11rem;
+        margin-left: -20px;
     }
 
 
